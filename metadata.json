@@ -1,0 +1,6 @@
+{
+  "name": "AlgoPulse - Unified Competitive Programming Engine",
+  "description": "Unified CP dashboard, multi-platform difficulty normalizer, topic mastery engine, SM-2 revision queue, and contest scheduler for LeetCode, Codeforces, and CodeChef.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
